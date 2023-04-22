@@ -19,7 +19,7 @@ cluster[number] are images after k-means and Cluster[number] are the images gene
 #### i) LSB Decryption
 Check if all the final Cluster[number] images obtained from above and stb_image folder are in the same directory and then run the lsb_decrypt.c file.
 
-
+<img width="385" alt="Screenshot 2023-04-22 235542" src="https://user-images.githubusercontent.com/105167498/233804024-2f95b6ea-d6e4-48c3-93b0-d016319df28a.png">
 
 #### ii) AES Decryption:
 In the directory Decryption-AES, run the main_decrypt.cpp file. Enter the key. (Make sure its the same as the encryption key.)
